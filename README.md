@@ -1,5 +1,5 @@
 # bug-bounty
-#websites
+#websites And writeups
 
 https://philippeharewood.com/page/2/
 
