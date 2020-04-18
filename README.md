@@ -12,3 +12,5 @@ https://cloudfuzz.github.io/android-kernel-exploitation/chapters/environment-set
 https://medium.com/bugbountywriteup/blind-xss-for-beginners-c88e48083071
 
 https://medium.com/bugbountywriteup/introduction-to-bug-bounty-for-noobs-46654bd6e0e2
+
+https://medium.com/swlh/mastering-the-skills-of-bug-bounty-2201eb6a9f4
